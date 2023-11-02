@@ -14,7 +14,6 @@ buildNumber.properties
 **/.mvn
 **/target/
 .idea
-**/.gitignore
 # Eclipse m2e generated files
 # Eclipse Core
 .project
